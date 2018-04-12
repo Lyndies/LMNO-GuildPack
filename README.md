@@ -41,10 +41,13 @@ Removed: DecoCraft, and its dependency PTRLib, were removed due to excessive str
 1. Under "Create Profile", there'll be a little "Import" link. Click on it.
 1. Now you'll just need to browse to where you saved your .zip file and select it!
 Done! Now Twitch will automatically proceed to download everything that's needed for you to play, and you're ready to go!
+
 Image walkthrough [here]()
 
 ### * Allocating More Ram
 
+
+Image walkthrough [here]()
 
 ## Legend for the ModPack Mod List:
 >This is what the highlights mean
