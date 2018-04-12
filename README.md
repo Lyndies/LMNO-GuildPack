@@ -35,8 +35,16 @@ Removed: DecoCraft, and its dependency PTRLib, were removed due to excessive str
 
 ## Instructions:
 ### * Modpack Installation:
+1. Let's start by getting the [download](https://github.com/Lyndies/LMNO-GuildPack#downloads) going. 
+1. Now that we have the .zip file, we'll need to go on the twitch app, on the Minecraft Mod Tab.
+1. We'll then create a "Custom Profile".
+1. Under "Create Profile", there'll be a little "Import" link. Click on it.
+1. Now you'll just need to browse to where you saved your .zip file and select it!
+Done! Now Twitch will automatically proceed to download everything that's needed for you to play, and you're ready to go!
+Image walkthrough [here]()
 
 ### * Allocating More Ram
+
 
 ## Legend for the ModPack Mod List:
 >This is what the highlights mean
@@ -117,6 +125,7 @@ Removed: DecoCraft, and its dependency PTRLib, were removed due to excessive str
 
 ## Downloads:
 ### * Client Side
-  To download the files just [click here](https://github.com/Lyndies/LMNO-GuildPack/blob/master/Release/LMNO%20GuildPack-1.3.zip)
+To download the files just [click here](https://github.com/Lyndies/LMNO-GuildPack/blob/master/Release/LMNO%20GuildPack-1.3.zip) and press "View Raw".
+The .zip file will be downloaded, and you'll be able to follow the [instructions](https://github.com/Lyndies/LMNO-GuildPack#-modpack-installation) and get the modpack on your Twitch Client!
 
 ### * Server Side
