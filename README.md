@@ -9,9 +9,9 @@ Git Repository for the LMNO GuildPack for Minecraft
    * [MoarRAM](./README.md#-allocating-more-ram)
 1. [Legend for the ModPack](./README.md#legend-for-the-modpack-mod-list)
 1. [ModList](./README.md#mod-list)
-1. [Current Downloads](Release/)
-   * [ClientSide Release]()
-   * [ServerSide Release]()
+1. [Current Downloads](./README.md#downloads)
+   * [ClientSide Release](./README.md#-client-side)
+   * [ServerSide Release](./README.md#-server-side)
 1. [Old Version](Old-Version/)
 
 ## Introduction
