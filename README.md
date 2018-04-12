@@ -12,7 +12,7 @@ Git Repository for the LMNO GuildPack for Minecraft
 1. [Current Downloads](./README.md#downloads)
    * [ClientSide Release](./README.md#-client-side)
    * [ServerSide Release](./README.md#-server-side)
-1. [Old Version](Old-Version/)
+1. [Old Version](./Old-Version/)
 
 ## Introduction
 This is the Official release page for the LMNO GuildPack!
