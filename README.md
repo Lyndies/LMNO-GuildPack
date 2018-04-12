@@ -36,7 +36,7 @@ Removed: DecoCraft, and its dependency PTRLib, were removed due to excessive str
 ## Instructions:
 ### * Modpack Installation:
 1. Let's start by getting the [download](https://github.com/Lyndies/LMNO-GuildPack#downloads) going. 
-1. Now that we have the .zip file, we'll need to go on the twitch app, on the Minecraft Mod Tab.
+1. Now that we have the .zip file, we'll need to go on the [Twitch App](https://updates.twitchapp.net/windows/installer/TwitchSetup_[usher-53735939].exe), on the Minecraft Mod Tab.
 1. We'll then create a "Custom Profile".
 1. Under "Create Profile", there'll be a little "Import" link. Click on it.
 1. Now you'll just need to browse to where you saved your .zip file and select it!
@@ -46,7 +46,7 @@ Done! Now Twitch will automatically proceed to download everything that's needed
 Image walkthrough [here](./Images/Modpack.md)
 
 ### * Allocating More RAM
-1. Start by going on the Minecraft Mod Tab, in the Twitch app.
+1. Start by going on the Minecraft Mod Tab, in the [Twitch App](https://updates.twitchapp.net/windows/installer/TwitchSetup_[usher-53735939].exe).
 1. Once there, just right click on the Modpack you want to allocate more RAM to.
 1. Click on "View Profile".
 1. Click on the 3 dots in the upper right corner.
