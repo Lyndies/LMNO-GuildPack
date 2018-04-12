@@ -117,6 +117,6 @@ Removed: DecoCraft, and its dependency PTRLib, were removed due to excessive str
 
 ## Downloads:
 ### * Client Side
-  To download the files just [click here](LMNO-GuildPack/Release/LMNO GuildPack-1.3.zip)
+  To download the files just [click here](Release/LMNO GuildPack-1.3.zip)
 
 ### * Server Side
