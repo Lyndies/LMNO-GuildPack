@@ -139,6 +139,6 @@ Image walkthrough [here](./Images/MoarRam.md)
 ## Downloads:
 ### * Client Side
 To download the files just [click here](https://github.com/Lyndies/LMNO-GuildPack/blob/master/Release/LMNO%20GuildPack-1.3.zip) and press "View Raw".
-The .zip file will be downloaded, and you'll be able to follow the [instructions](https://github.com/Lyndies/LMNO-GuildPack#-modpack-installation) and get the modpack on your Twitch Client!
+The .zip file will be downloaded, and you'll be able to follow the [instructions](https://github.com/Lyndies/LMNO-GuildPack#-modpack-installation) and get the modpack on your [Twitch Client](https://updates.twitchapp.net/windows/installer/TwitchSetup_[usher-53735939].exe)!
 
 ### * Server Side
