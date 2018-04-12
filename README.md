@@ -40,6 +40,7 @@ Removed: DecoCraft, and its dependency PTRLib, were removed due to excessive str
 1. We'll then create a "Custom Profile".
 1. Under "Create Profile", there'll be a little "Import" link. Click on it.
 1. Now you'll just need to browse to where you saved your .zip file and select it!
+
 Done! Now Twitch will automatically proceed to download everything that's needed for you to play, and you're ready to go!
 
 Image walkthrough [here](./Images/Modpack.md)
@@ -52,6 +53,7 @@ Image walkthrough [here](./Images/Modpack.md)
 1. Go to "Profile Options".
 1. Uncheck the "Use System Settings", under "Memory Options"
 1. Move the slider in order to allocate as much RAM as wanted!
+
 Here you go! Now the game will automatically start with as much RAM as you instructed it too.
 If you're having FPS lag, or the Modpack runs slowly, give the pack a bit more allocated RAM to make it run smoother!
 
