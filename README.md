@@ -5,11 +5,13 @@ Git Repository for the LMNO GuildPack for Minecraft
 1. [Introduction](https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#introduction)
 1. [ChangeLog](https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#changelog)
 1. [Instructions](https://github.com/Lyndies/LMNO-GuildPack#instructions)
-   1. [Modpack](https://github.com/Lyndies/LMNO-GuildPack#-modpack-installation)
-   1. [MoarRam](https://github.com/Lyndies/LMNO-GuildPack#-allocating-more-ram)
+   * [Modpack](https://github.com/Lyndies/LMNO-GuildPack#-modpack-installation)
+   * [MoarRam](https://github.com/Lyndies/LMNO-GuildPack#-allocating-more-ram)
 1. [Legend for the ModPack](https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#legend-for-the-modpack-mod-list)
 1. [ModList](https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#mod-list)
-1. [Current Download](Release/)
+1. [Current Downloads](Release/)
+   * [ClientSide Release]()
+   * [ServerSide Release]()
 1. [Old Version](Old-Version/)
 
 ## Introduction
@@ -22,6 +24,12 @@ This will be the page to refer to for updates and everything
 >Here you'll see the current changes from the last version of the mod pack!
 
 ```
+Version 1.3
+Stable, ModLoader version: Forge-14.23.2.2611
+
+
+Added: No new mods were added
+Removed: DecoCraft, and its dependency PTRLib, were removed due to excessive stress, causing the game to fail world generation.
 
 ```
 
