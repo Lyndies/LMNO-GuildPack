@@ -6,7 +6,7 @@ Git Repository for the LMNO GuildPack for Minecraft
 1. [ChangeLog](https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#changelog)
 1. [Legend for the ModPack](https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#legend-for-the-modpack-mod-list)
 1. [ModList](https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#mod-list)
-1. [Current Download](LMNO-GuildPack/Release/)
+1. [Current Download](Release/)
 1. [Old Version](Old-Version/)
 
 ## Introduction
