@@ -22,6 +22,11 @@ This will be the page to refer to for updates and everything
 
 ```
 
+## Instructions:
+  ### Modpack Installation:
+  
+  ### Allocating More Ram
+
 ## Legend for the ModPack Mod List:
 >This is what the highlights mean
 
