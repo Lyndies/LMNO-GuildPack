@@ -71,7 +71,7 @@ Removed: DecoCraft, and its dependency PTRLib, were removed due to excessive str
 * __ConnectedTextureMod__
 * *Cooking for BlockHeads*
 * *__CraftTweaker__*
-* DecoCraft2
+* ~~DecoCraft2~~
 * **Draconic Evolution**
 * Ender IO
 * *__EnderStorage 1.8+__*
@@ -98,7 +98,7 @@ Removed: DecoCraft, and its dependency PTRLib, were removed due to excessive str
 * *__Ore Excavation__*
 * *__Pam's Cookables - Pam's Harvestcraft Addon__*
 * Pam's HarvestCraft
-* __PTRLib__
+* ~~__PTRLib__~~
 * __Redstone Flux__
 * Redstone Paste
 * __ShetiPhianCore__
@@ -114,3 +114,9 @@ Removed: DecoCraft, and its dependency PTRLib, were removed due to excessive str
 * __WanionLib__
 * *__Wawla - What Are We Looking At__*
 * __Zero Core__
+
+## Downloads:
+### * Client Side
+    To download the file [do this](LMNO-GuildPack/Release/LMNO GuildPack-1.3.zip)
+
+### * Server Side
