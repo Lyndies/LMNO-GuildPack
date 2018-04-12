@@ -6,7 +6,7 @@ Git Repository for the LMNO GuildPack for Minecraft
 1. [ChangeLog](https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#changelog)
 1. [Instructions](https://github.com/Lyndies/LMNO-GuildPack#instructions)
    * [Modpack](https://github.com/Lyndies/LMNO-GuildPack#-modpack-installation)
-   * [MoarRam](https://github.com/Lyndies/LMNO-GuildPack#-allocating-more-ram)
+   * [MoarRAM](https://github.com/Lyndies/LMNO-GuildPack#-allocating-more-ram)
 1. [Legend for the ModPack](https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#legend-for-the-modpack-mod-list)
 1. [ModList](https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#mod-list)
 1. [Current Downloads](Release/)
@@ -42,12 +42,20 @@ Removed: DecoCraft, and its dependency PTRLib, were removed due to excessive str
 1. Now you'll just need to browse to where you saved your .zip file and select it!
 Done! Now Twitch will automatically proceed to download everything that's needed for you to play, and you're ready to go!
 
-Image walkthrough [here]()
+Image walkthrough [here](./Images/Modpack.md)
 
-### * Allocating More Ram
+### * Allocating More RAM
+1. Start by going on the Minecraft Mod Tab, in the Twitch app.
+1. Once there, just right click on the Modpack you want to allocate more RAM to.
+1. Click on "View Profile".
+1. Click on the 3 dots in the upper right corner.
+1. Go to "Profile Options".
+1. Uncheck the "Use System Settings", under "Memory Options"
+1. Move the slider in order to allocate as much RAM as wanted!
+Here you go! Now the game will automatically start with as much RAM as you instructed it too.
+If you're having FPS lag, or the Modpack runs slowly, give the pack a bit more allocated RAM to make it run smoother!
 
-
-Image walkthrough [here]()
+Image walkthrough [here](./Images/MoarRam.md)
 
 ## Legend for the ModPack Mod List:
 >This is what the highlights mean
