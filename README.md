@@ -1,14 +1,16 @@
 # LMNO-GuildPack
 Git Repository for the LMNO GuildPack for Minecraft
 
-## Itroduction
+## Index
+1. [](Introduction)
+1. [](Legend for the ModPack)
+1. [](ModList)
+
+## Introduction
 This is the Official release page for the LMNO GuildPack!
 Here you'll find the current release, old versions, the mod list and all that you need to know to get started and play with us!
 The Idea started out as a small suggestion but quickly exploded, and now we even have a Git Page! Yay~
 This will be the page to refer to for updates and everything
-
-## Mod List
-Here you'll find our complete mod list, with a handy legend to understand what each mod is.
 
 ### Legend for the ModPack Mod List:
 *LightWeight*
@@ -18,6 +20,8 @@ __Dependencies__
 ~~Deleted/Old~~
 +NewAdditions
 
+## Mod List
+>Here you'll find our complete mod list, with a handy legend to understand what each mod is:
 Advanced Solar Panels
 *__Angel Ring To Bauble__*
 Applied Energistic 2
