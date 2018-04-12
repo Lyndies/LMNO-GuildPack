@@ -2,9 +2,9 @@
 Git Repository for the LMNO GuildPack for Minecraft
 
 ## Index
-1. [](Introduction)
-1. [](Legend for the ModPack)
-1. [](ModList)
+1. [https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#introduction](Introduction)
+1. [https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#legend-for-the-modpack-mod-list](Legend for the ModPack)
+1. [https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#mod-list](ModList)
 
 ## Introduction
 This is the Official release page for the LMNO GuildPack!
@@ -12,7 +12,9 @@ Here you'll find the current release, old versions, the mod list and all that yo
 The Idea started out as a small suggestion but quickly exploded, and now we even have a Git Page! Yay~
 This will be the page to refer to for updates and everything
 
-### Legend for the ModPack Mod List:
+## Legend for the ModPack Mod List:
+>This is what the highlights mean
+
 * *LightWeight*
 * *__Tweaks__*
 * __Dependencies__
