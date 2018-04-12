@@ -13,12 +13,12 @@ The Idea started out as a small suggestion but quickly exploded, and now we even
 This will be the page to refer to for updates and everything
 
 ### Legend for the ModPack Mod List:
-*LightWeight*
-*__Tweaks__*
-__Dependencies__
-**HeavyWeight**
-~~Deleted/Old~~
-+NewAdditions
+* *LightWeight*
+* *__Tweaks__*
+* __Dependencies__
+* **HeavyWeight**
+* ~~Deleted/Old~~
+* +NewAdditions
 
 ## Mod List
 >Here you'll find our complete mod list, with a handy legend to understand what each mod is:
