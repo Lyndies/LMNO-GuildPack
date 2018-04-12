@@ -3,12 +3,12 @@ Git Repository for the LMNO GuildPack for Minecraft
 
 ## Index
 1. [Introduction](./README.md#introduction)
-1. [ChangeLog](https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#changelog)
-1. [Instructions](https://github.com/Lyndies/LMNO-GuildPack#instructions)
-   * [Modpack](https://github.com/Lyndies/LMNO-GuildPack#-modpack-installation)
-   * [MoarRAM](https://github.com/Lyndies/LMNO-GuildPack#-allocating-more-ram)
-1. [Legend for the ModPack](https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#legend-for-the-modpack-mod-list)
-1. [ModList](https://github.com/Lyndies/LMNO-GuildPack/blob/master/README.md#mod-list)
+1. [ChangeLog](./README.md#changelog)
+1. [Instructions](./README.md#instructions)
+   * [Modpack](./README.md#-modpack-installation)
+   * [MoarRAM](./README.md#-allocating-more-ram)
+1. [Legend for the ModPack](./README.md#legend-for-the-modpack-mod-list)
+1. [ModList](./README.md#mod-list)
 1. [Current Downloads](Release/)
    * [ClientSide Release]()
    * [ServerSide Release]()
