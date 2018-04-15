@@ -54,7 +54,8 @@ Image walkthrough [here](./Images/Modpack.md)
 1. Select Minecraft.
 1. You'll see there the Modpack we set up in [here](./README.md#-modpack-installation), and just hit play.
 1. The Minecraft Launcher will open, you'll see a green button with play, make sure that the name of the modpack is there.
-   1. 
+   * If it's not, hit the green arrow, and choose the correct pack.
+1. Hit the green button and you're ready to go!
 
 ### * Allocating More RAM:
 1. Start by going on the Minecraft Mod Tab, in the [Twitch App](https://updates.twitchapp.net/windows/installer/TwitchSetup_[usher-53735939].exe).
@@ -149,10 +150,12 @@ Image walkthrough [here](./Images/MoarRam.md)
 
 ## Downloads:
 ### * Client Side
-To download the files just [click here](https://github.com/Lyndies/LMNO-GuildPack/blob/master/Release/LMNO%20GuildPack-1.3.zip) and press "View Raw".
-The .zip file will be downloaded, and you'll be able to follow the [instructions](https://github.com/Lyndies/LMNO-GuildPack#-modpack-installation) and get the modpack on your [Twitch Client](https://updates.twitchapp.net/windows/installer/TwitchSetup_[usher-53735939].exe)!
+To download the files just [click here](./Release/LMNO%20GuildPack-1.3.zip) and press "View Raw".
+The .zip file will be downloaded, and you'll be able to follow the [instructions](./README.md#-modpack-installation) and get the modpack on your [Twitch Client](https://updates.twitchapp.net/windows/installer/TwitchSetup_[usher-53735939].exe)!
 
 ### * Server Side
+As for the [client side download](./README.md#-client-side) you can get the files but pressing "View Raw".
+Here's the [download](./Release/LMNO%20ServerGuildPack-1.0.zip) for the server side modpack!
 
 ## Old Versions:
 >Here you'll find the old versions of the pack, for whatever reason you'd want them for.
