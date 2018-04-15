@@ -6,6 +6,7 @@ Git Repository for the LMNO GuildPack for Minecraft
 1. [ChangeLog](./README.md#changelog)
 1. [Instructions](./README.md#instructions)
    * [Modpack](./README.md#-modpack-installation)
+   * [RunningTheGame](./README.md#-running-the-game)
    * [MoarRAM](./README.md#-allocating-more-ram)
 1. [Legend for the ModPack](./README.md#legend-for-the-modpack-mod-list)
 1. [ModList](./README.md#mod-list)
@@ -45,7 +46,17 @@ Done! Now Twitch will automatically proceed to download everything that's needed
 
 Image walkthrough [here](./Images/Modpack.md)
 
-### * Allocating More RAM
+### * Running The Game:
+>This is going to be pretty straight-forward, but here it is nonetheless.
+
+1. You'll need to open the [Twitch App](https://updates.twitchapp.net/windows/installer/TwitchSetup_[usher-53735939].exe).
+1. From there navigate to the Mod Tab.
+1. Select Minecraft.
+1. You'll see there the Modpack we set up in [here](./README.md#-modpack-installation), and just hit play.
+1. The Minecraft Launcher will open, you'll see a green button with play, make sure that the name of the modpack is there.
+   1. 
+
+### * Allocating More RAM:
 1. Start by going on the Minecraft Mod Tab, in the [Twitch App](https://updates.twitchapp.net/windows/installer/TwitchSetup_[usher-53735939].exe).
 1. Once there, just right click on the Modpack you want to allocate more RAM to.
 1. Click on "View Profile".
