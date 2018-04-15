@@ -154,7 +154,8 @@ To download the files just [click here](./Release/LMNO%20GuildPack-1.3.zip) and 
 The .zip file will be downloaded, and you'll be able to follow the [instructions](./README.md#-modpack-installation) and get the modpack on your [Twitch Client](https://updates.twitchapp.net/windows/installer/TwitchSetup_[usher-53735939].exe)!
 
 ### * Server Side
-As for the [client side download](./README.md#-client-side) you can get the files but pressing "View Raw".
+As for the [client side](./README.md#-client-side) download you can get the files but pressing "View Raw".
+
 Here's the [download](./Release/LMNO%20ServerGuildPack-1.0.zip) for the server side modpack!
 
 ## Old Versions:
