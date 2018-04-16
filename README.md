@@ -25,11 +25,11 @@ This will be the page to refer to for updates and everything
 >Here you'll see the current changes from the last version of the mod pack!
 
 ```
-Version 1.3
+Version 1.4
 Stable, ModLoader version: Forge-14.23.2.2611
 
-
 Added: No new mods were added
+Changed: Config Files adjusted to suit the needs of the Server. Created the Server Release, currently at Version 1.0
 Removed: DecoCraft, and its dependency PTRLib, were removed due to excessive stress, causing the game to fail world generation.
 
 ```
